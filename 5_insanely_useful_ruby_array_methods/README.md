@@ -1,4 +1,4 @@
-# 5 insanely useful `Array` methods
+# 5 fun and useful `Array` methods
 
 ### Description
 
