@@ -1,12 +1,16 @@
 # 5 insanely useful `Array` methods
 
+### Want to keep learning more? Join [CodeSprout](https://www.codesprout.com/)!
+
+The mantra over at CodeSprout is KAIZEN! Continuously learn, continuously improve. [Sign up for free](https://www.codesprout.com/users/sign_up)!
+
 ### Description
 
 Ruby's `Array` class has some powerful and fun methods that you can use to be super-productive.
 
 Here's some code from a video on the [CodeSprout YouTube channel](https://www.youtube.com/@codesprout) that showcases some of the most used methods you can find on instances of `Array`.
 
-This code uses Ruby 3.1.3. Check out [the official Ruby documentation](https://ruby-doc.org/3.1.3/Array.html) for 3.1.3 for more details and more goodness.
+The code in the YouTube videos uses Ruby 3.1.3. Check out [the official Ruby documentation](https://ruby-doc.org/3.1.3/Array.html) for 3.1.3 for more details and more goodness.
 
 
 ### Methods
